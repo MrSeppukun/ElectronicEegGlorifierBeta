@@ -1,0 +1,7 @@
+{
+    "prefix": "!",
+    "token": "NzU3Njc4NDU0MDk4MzYyNDg4.X2j5DA.J0Z9beaMNmElqjfmw2pEBarnxZw",
+    "dependencies": {
+        "fs": "0.0.1-security"
+    }
+}
